@@ -14,9 +14,11 @@ Advice: I suggest you follow 1 after 2 after 3 notebooks for clear and better un
 As you know Gradient Descent has 3 types:-
 1. Batch Gradient Descent
 notebook:- gradient-descent-n-dimension-general.ipynb
+Note:- Batch_Gradient_Descent_Short_Note. pdf
    
 3. Stochastic Gradient Descent
 notebook:- stochastic-gradient-descent.ipynb
+Note:- Stochastic_Gradient_Descent_Short_Note. pdf
 
 5. Mini-Batch Gradient Descent
 
