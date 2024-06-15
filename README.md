@@ -2,7 +2,7 @@
 
 #
 1) Notebook: gradient-descent-line-behavior-w-r-t-bias-b.ipynb
-   . content:- how a line behaves when we make change in bias
+   * content:- how a line behaves when we make change in bias
 
 3) In gradient-descent-line-behavior-w-r-t-slop-m.ipynb, you can find How graphs or lines behave concerning weights
 
