@@ -1,14 +1,12 @@
-Hello friends,
-In this repository, I collect my work done in Gradient Descent
+# Gradient-Decent-By-The-AI 
 
 #
-1) In gradient-descent-line-behavior-w-r-t-bias-b.ipynb, you can find 
--- how a graph or line behaves concerning bias
--- a basic and sufficient theory about gradient descent
+1) Notebook: gradient-descent-line-behavior-w-r-t-bias-b.ipynb
+   . content:- how a line behaves when we make change in bias
 
-2) In gradient-descent-line-behavior-w-r-t-slop-m.ipynb, you can find How graphs or lines behave concerning weights
+3) In gradient-descent-line-behavior-w-r-t-slop-m.ipynb, you can find How graphs or lines behave concerning weights
 
-3) In gradient-descent-in-2d.ipynb you can find the actual Gradient Descent code which is the combination of 1) and 2)
+4) In gradient-descent-in-2d.ipynb you can find the actual Gradient Descent code which is the combination of 1) and 2)
 
 Advice: I suggest you follow 1 after 2 after 3 notebooks for clear and better understanding
 
